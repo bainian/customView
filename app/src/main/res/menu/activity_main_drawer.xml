@@ -7,17 +7,17 @@
             android:icon="@drawable/ic_menu_send"
             android:title="BaseActivity" />
         <item
-            android:id="@+id/nav_gallery"
+            android:id="@+id/radar_view"
             android:icon="@drawable/ic_menu_send"
-            android:title="Gallery" />
+            android:title="RadarActivity" />
         <item
-            android:id="@+id/nav_slideshow"
+            android:id="@+id/poly_view"
             android:icon="@drawable/ic_menu_send"
-            android:title="Slideshow" />
+            android:title="PolyActivity" />
         <item
-            android:id="@+id/nav_manage"
+            android:id="@+id/rotate_view"
             android:icon="@drawable/ic_menu_send"
-            android:title="Tools" />
+            android:title="RotateActivity" />
     </group>
 
     <item android:title="Communicate">

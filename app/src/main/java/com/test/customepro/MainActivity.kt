@@ -66,6 +66,15 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             R.id.base_view -> {
                 startActivity(Intent(this, BaseActivity::class.java))
             }
+            R.id.radar_view -> {
+                startActivity(Intent(this, RadarActivity::class.java))
+            }
+            R.id.poly_view -> {
+                startActivity(Intent(this, PolyActivity::class.java))
+            }
+            R.id.rotate_view -> {
+                startActivity(Intent(this, Rotate3DActivity::class.java))
+            }
 
         }
 

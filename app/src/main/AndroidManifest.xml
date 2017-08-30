@@ -22,6 +22,9 @@
         </activity>
 
         <activity android:name=".BaseActivity" />
+        <activity android:name=".RadarActivity" />
+        <activity android:name=".PolyActivity" />
+        <activity android:name=".Rotate3DActivity" />
     </application>
 
 </manifest>
